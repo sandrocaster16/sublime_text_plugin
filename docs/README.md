@@ -4,7 +4,7 @@
 
 ![Мое unicode popup окно](http://i.imgur.com/3P9FhlH.png)
 
-/
+\
 
 # 3 Labwork ISRPO
 
@@ -12,7 +12,7 @@
 
 ![My unicode popup window](http://i.imgur.com/3P9FhlH.png)
 
-/
+\
 
 History:
 
